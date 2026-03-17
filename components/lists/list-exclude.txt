@@ -41,3 +41,24 @@ riotcdn.net
 leagueoflegends.com
 playvalorant.com
 marketplace.visualstudio.com
+# Банковские домены
+sberbank.ru
+online.sberbank.ru
+tinkoff.ru
+www.tinkoff.ru
+vtb.ru
+alfabank.ru
+gazprombank.ru
+raiffeisen.ru
+open.ru
+psb.ru
+mkb.ru
+pochta-bank.ru
+qiwi.com
+yoomoney.ru
+
+# Государственные домены
+gosuslugi.ru
+nalog.ru
+esia.gosuslugi.ru
+zakupki.gov.ru
