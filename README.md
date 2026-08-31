@@ -4,7 +4,7 @@
 
 ![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011%20x64-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![UI](https://img.shields.io/badge/Interface-PyQt6%20Hardware--Accelerated-green?style=for-the-badge)
-![Status](https://img.shields.io/badge/Release-v1.1.2-cyan?style=for-the-badge)
+![Status](https://img.shields.io/badge/Release-v1.1.3-cyan?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-purple?style=for-the-badge)
 
 **Многофункциональный графический комбайн для восстановления доступа к заблокированным и замедленным ресурсам (YouTube 4K, Discord Voice/RTC, X/Twitter, Roblox и др.) на базе перехвата сетевых пакетов WinWS & WinDivert.**
